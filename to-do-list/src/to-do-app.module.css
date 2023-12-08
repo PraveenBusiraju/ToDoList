@@ -1,0 +1,40 @@
+*{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #232F3E;
+    color: #FEBD69;
+}
+
+.delete_button ,.save_button,.edit_button{
+    width: 30px;
+    height: 30px; 
+    padding-left: 10px;
+    position: relative;
+    top: 5px;
+}
+.add_button{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: 13px;
+    left: 10px;
+}
+
+.renderTask{
+    margin-right: 30px;
+}
+
+.completed{
+    color: white;
+    position: relative;
+    top: 20px;
+    
+}
+ul{
+    text-align: left;
+    padding-left: 550px;
+    
+}
+h1{
+    font-size: x-large;
+}
